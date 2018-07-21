@@ -1,0 +1,10 @@
+recipes.remove(<progressivealchemy:condensertiered_5>);
+recipes.remove(<progressivealchemy:condensertiered_4>);
+recipes.remove(<progressivealchemy:condensertiered_3>);
+recipes.remove(<progressivealchemy:condensertiered_2>);
+recipes.remove(<projecte:item.pe_philosophers_stone>);
+furnace.remove(<tconstruct:materials>);
+recipes.removeShapeless(<projecte:item.pe_transmutation_tablet>, []);
+recipes.remove(<projecte:item.pe_transmutation_tablet>);
+recipes.removeShapeless(<projecte:transmutation_table>, []);
+recipes.remove(<projecte:transmutation_table>);
