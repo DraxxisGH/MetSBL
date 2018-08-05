@@ -1,2 +1,2 @@
-# MetSBL
-Metalistic Skyblock 
+# WIPSBL
+WIP Skyblock
